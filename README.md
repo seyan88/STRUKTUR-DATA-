@@ -17,10 +17,14 @@
 </ul>
 
 ## Judul Proyek
-<p>SISTEM PEMESANAN TIKET BIOSKOP .</p>
+<p>SISTEM PEMESANAN TIKET BIOSKOP </p>
 
 ## Penjelasan Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<h3>SISTEM PEMESANAN TIKET BIOSKOP </h3>
+<p>    Sistem Pemesanan Tiket Bioskop yang kami buat dapat memilih film,jam,dan juga kursi ,<br>
+       serta nama bioskop kami <b> BIOSKOP HEDON PLANET </b> di sistem pemesanan </p>
+        <p> </p>
+        <p> </p>
 
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
