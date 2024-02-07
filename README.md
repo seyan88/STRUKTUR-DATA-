@@ -23,7 +23,7 @@
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Komponen Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Lorem ipsum sir dolor amet .</p>
 
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
