@@ -99,10 +99,22 @@
 </table>
 <br>
 
-<p>semua costumer nya sudah di data sebanyak 5 peserta dan setiap pesertanya sudah memilih tiket yang mereka pilih, kemudian setiap pesertanya akan di masukkan kedalam antrian di urutkan sesuai dengan jenis tiketnya, ketika program di mulai akan menampilkan nama bioskop dan di bawahnya ada nama costumer dan tiket yang di pilihnya, kemudian akan di minta untuk memasukkan pilihan film yang ingin di tonton, Setelah memilih film data akan mengammbil jam tayang sesuai dengan film yang sudah di pilih, kemudian akan di minta untuk memilih jam tayang nya. </p>
-<br>
-<p> kemudian setelah memilih jam akan menampilkan layout kursi bioskop yang tersedia, setelah menampilkan kursi akan di minta untuk memilih kursi sebelah mana yang ingin di pilih apakah kanan atau kiri?, setelah memilih kursi sebelah kanan atau kiri akan di tanya akan memesan berapa kursi,  </p>
+<p>semua costumer nya sudah di data sebanyak 5 peserta dan setiap pesertanya sudah memilih tiket yang mereka pilih, kemudian setiap pesertanya akan di masukkan kedalam antrian di urutkan sesuai dengan jenis tiketnya. <br>
 
+  <p>proses dari sitem bioskop ini bisa di bagi menjadi 3 bagian yaitu pemesanan, pembayaran, dan menampilkan riwayat </p>
+
+  <ol type="1">
+    <li> Pemesanan </li>
+  <br>ketika program di mulai akan menampilkan nama bioskop dan di bawahnya ada nama costumer dan tiket yang di pilihnya, kemudian akan di minta untuk memasukkan pilihan film yang ingin di tonton, Setelah memilih film data akan mengammbil jam tayang sesuai dengan film yang sudah di pilih, kemudian akan di minta untuk memilih jam tayang nya. </p>
+<br>
+<p>  setelah itu akan menampilkan layout kursi bioskop yang tersedia, setelah menampilkan kursi akan di minta untuk memilih kursi sebelah mana yang ingin di pilih apakah kanan atau kiri?, setelah memilih kursi sebelah kanan atau kiri akan di tanya akan memesan berapa kursi, kemudian tinggal memasukan sesuai nama kursinya akan di lakukan pencarian daan ketika ketemu maka data kursi akan bernilai true yang sehingga tidak akan bisa di pesan lagi.  </p>
+<br>
+    <li>Pembayaran</li>
+    <p>pada pembayaran ini jumlah kursi yang di pesan akan di kali kan dengan jumlah harga jumlah harga tiket, kemudian akan menampilkan jumlah yang harus di bayar, lalu akan  di minta memasukkan nominal yang di bayar, setelah itu apabila uang nya lebih maka akan menampilkan kembaliannya namun ketika kurang akan menampilka kurang nya berapa dan akan kembali untuk memasukan nominal yang harus dio bayar </p>
+<br>
+    <li> Riwayat</li>
+    <p> setelah transaksi maka akan mangambil semua data mulai dari input pemilihan film sampai transaksi akan di masukkan ke linkedlist sehingga nanti di riwayat akan menampilkan transaksi yang sudah terjadi, na,um di pemilihakn kursi tidak di masukkkan ke dalam linkedlist yang sama karena terjadi error ketika di masukkan ke dalam linkedlist</p>
+  </ol>
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
 
