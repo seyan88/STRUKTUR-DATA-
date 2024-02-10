@@ -28,7 +28,7 @@
           <li>Memilih KURSI</li>
         </ol>
         <br>
-        <p> pada jadwal penayangan film kami membuat  waktu penayangannya dari setiap film di beri jarak satu jam untuk memudahkan pegawai menyiapkan studio, dan dalam satu film dapat di pilih sesuai keinginan costumer, di bawah merupakan purwarupa dari jadwal nya  </p>
+        <p> pada jadwal penayangan film kami membuat  waktu penayangannya dari setiap film di beri jarak satu jam untuk memudahkan pegawai menyiapkan studio, dan dalam satu film dapat memilih jam sesuai keinginan costumer, di bawah merupakan purwarupa dari jadwal nya  </p>
 <br>
 <table border ="1">
   <tr>
@@ -99,7 +99,12 @@
 </table>
 <br>
 <p>semua costumer nya sudah di data sebanyak 5 peserta dan setiap pesertanya sudah memilih tiket yang mereka pilih, kemudian setiap pesertanya akan di masukkan kedalam antrian di urutkan sesuai dengan jenis tiketnya</p>
-
+<br>
+<p>ketika program di mulai akan menampilkan nama bioskop dan di bawahnya ada nama costumer dan tiket yang di pilihnya, kemudian akan di minta untuk memasukkan pilihan film yang ingin di tonton. </p>
+<br>
+<p>Setelah memiligh film data akan mengammbil jam tayang sesuai dengan film yang sudah di pilih, kemudian akan di minta untuk memilih jam tayang nya.</p>
+<br>
+<p> kemudian setelah memilih jam akan menampilkan layout kursi bioskop yang tersedia, setelah menampilkan kursi akan di minta untuk memilih kursi sebelah mana yang ingin di pilih apakah kanan atau kiri?, setelah memilih kursi sebelah kanan atau kiri akan di tanya akan memesan berapa kursi,  </p>
 
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
