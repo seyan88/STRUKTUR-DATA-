@@ -73,7 +73,7 @@
   </tr>
 </table>
 <br>
-<p> kemudian terdapat beberapa harga khusus dari setiap tiket sepetri di bawah </p>
+<p> kemudian terdapat beberapa harga khusus serta pelayanan yang sesuai dari setiap tiket yang sudah ada di bawah </p>
 <br>
 <table border ="1">
   <tr>
@@ -98,6 +98,8 @@
   </tr>
 </table>
 <br>
+<p>semua costumer nya sudah di data sebanyak 5 peserta dan setiap pesertanya sudah memilih tiket yang mereka pilih, kemudian setiap pesertanya akan di masukkan kedalam antrian di urutkan sesuai dengan jenis tiketnya</p>
+
 
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
