@@ -175,7 +175,25 @@
 
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<pre><b>PEPI SEPTI APRILIANI</b> 
+                        = pemilihan film
+                        = pemilihan jam
+                        = Penjelasan awal program</pre>
+<pre><b>SULASTIAN SETIADI</b> 
+                        = Arrays 2 dimensi -> kursikanan, kursikiri
+                        = searching -> kursi
+                        = pemesanan kursi
+                        = Transaksi
+                        = Linked List => Riwayat Transaksi
+                        = Penjelasan akhir program 
+                         </pre>
+<pre><b>SOFYAN MAULANA</b>
+                        = Struktur Program
+                        = Record -> Film, Pengunjung, Pemesanan, kursi  
+                        = Arraylist ->  film
+                        = Penjelasan running program
+                        = Editing Video</pre>
+
 
 ## Demo Proyek
 <ul>
