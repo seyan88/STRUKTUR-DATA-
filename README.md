@@ -39,6 +39,7 @@
     <th>Jam 3</th>
     <th>Jam 4</th>
     <th>Jam 5</th>
+    <th>Harga</th>
   </tr>
   <tr>
     <td>1</td>
@@ -48,6 +49,7 @@
     <td>16.00</td>
     <td>19.00</td>
     <td>22.00</td>
+    <td>35.000</td>
   </tr>
        <tr>
     <td>2</td>
@@ -57,6 +59,7 @@
     <td>17.00</td>
     <td>20.00</td>
     <td>23.00</td>
+    <td>35.000</td>
   </tr>
        <tr>
     <td>3</td>
@@ -66,8 +69,36 @@
     <td>18.00</td>
     <td>21.00</td>
     <td>00.00</td>
+    <td>35.000</td>
   </tr>
 </table>
+<br>
+<p> kemudian terdapat beberapa harga khusus dari setiap tiket sepetri di bawah </p>
+<br>
+<table border ="1">
+  <tr>
+    <th>No</th>
+    <th>Tiket</th>
+    <th>harga</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>VIP</td>
+    <td>harga tiket / 0,5 </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Couple</td>
+    <td>harga tiket / 0,7 </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Reguler</td>
+    <td>harga tiket / 1 </td>
+  </tr>
+</table>
+<br>
+
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
 
