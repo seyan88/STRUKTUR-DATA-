@@ -11,7 +11,7 @@
   <li>Anggota:</li>
   <ul>
     <li>Ketua: <a href="">PEPI SEPTI APRILIANI</a></li>
-    <li>Anggota 1: <a href="">SULASTIAN </a></li>
+    <li>Anggota 1: <a href="https://github.com/seyan88">SULASTIAN SETIADI</a></li>
     <li>Anggota 2: <a href="">SOFYAN MAULANA </a></li>
   </ul>
 </ul>
