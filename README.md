@@ -117,6 +117,7 @@
     <li> Riwayat</li>
     <p> setelah transaksi maka akan mangambil semua data mulai dari input pemilihan film sampai transaksi akan di masukkan ke linkedlist sehingga nanti di riwayat akan menampilkan transaksi yang sudah terjadi, na,um di pemilihakn kursi tidak di masukkkan ke dalam linkedlist yang sama karena terjadi error ketika di masukkan ke dalam linkedlist</p>
   </ol>
+  
 ## Komponen Proyek
 <p>Berikut beberapa komponen yang kami gunakkan</p>
 <ol type="1"> 
