@@ -176,6 +176,7 @@
 
 ## Pembagian Tim
 <pre><b>PEPI SEPTI APRILIANI</b> 
+                        = Struktur Program
                         = pemilihan film
                         = pemilihan jam
                         = Penjelasan awal program</pre>
@@ -188,7 +189,6 @@
                         = Penjelasan akhir program 
                          </pre>
 <pre><b>SOFYAN MAULANA</b>
-                        = Struktur Program
                         = Record -> Film, Pengunjung, Pemesanan, kursi  
                         = Arraylist ->  film
                         = Penjelasan running program
