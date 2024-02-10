@@ -31,7 +31,42 @@
         <p> pada jadwal penayangan film kami membuat  waktu penayangannya dari setiap film di beri jarak satu jam untuk memudahkan pegawai menyiapkan studio, dan dalam satu film dapat di pilih sesuai keinginan costumer, di bawah merupakan purwarupa dari jadwal nya  </p>
 <br>
 <table border ="1">
-  
+  <tr>
+    <th>No</th>
+    <th>Film</th>
+    <th>Jam 1</th>
+    <th>Jam 2</th>
+    <th>Jam 3</th>
+    <th>Jam 4</th>
+    <th>Jam 5</th>
+  </tr>
+  <tr>
+    <td><1/td>
+    <td>Siksa Neraka</td>
+    <td>10.00</td>
+    <td>13.00</td>
+    <td>16.00</td>
+    <td>19.00</td>
+    <td>22.00</td>
+  </tr>
+       <tr>
+    <td><2/td>
+    <td>172 Days</td>
+    <td>11.00</td>
+    <td>14.00</td>
+    <td>17.00</td>
+    <td>20.00</td>
+    <td>23.00</td>
+  </tr>
+       <tr>
+    <td><3/td>
+    <td>Ancika</td>
+    <td>12.00</td>
+    <td>15.00</td>
+    <td>18.00</td>
+    <td>21.00</td>
+    <td>00.00</td>
+  </tr>
 </table>
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
