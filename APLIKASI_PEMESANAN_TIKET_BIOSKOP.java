@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Queue;
 import java.util.PriorityQueue;
-import java.util.Stack;
+
 
 public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
 
@@ -30,7 +30,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
     static void menampilkankursi (String tampil){
             
             System.out.println("                SILAHKAN PILIH KURSI YANG ANDA INGINKAN   ");
-            
+            System.out.println("                           LAYAR BIOSKOP");
             for (int i=0; i<kursikiri.length; i++){
                  System.out.println("        "+kursikiri[i][0]+" "+" "+kursikiri[i][1]+" "+" "+kursikiri[i][2]+" "+" "+kursikiri[i][3]+" "+" "+kursikiri[i][4]+"                   "+
                                     " "+kursikanan[i][0]+" "+" "+kursikanan[i][1]+" "+" "+kursikanan[i][2]+" "+" "+kursikanan[i][3]+" "+" "+kursikanan[i][4]+" ");
