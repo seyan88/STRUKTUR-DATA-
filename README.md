@@ -1,10 +1,12 @@
 # Final Proyek Struktur Data
+
 <ul>
   <li>Mata Kuliah: Struktur Data</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
 ## Kelompok
+
 <ul>
   <li>Kelompok: KELOMPOK 2</li>
   <li>Proyek: SISTEM PEMESANAN TIKET BIOSKOP</li>
@@ -117,7 +119,7 @@
   </ol>
 ## Komponen Proyek
 <p>Berikut beberapa komponen yang kami gunakkan</p>
-<ol type="1">
+<ol type="1"> 
   <li>Struktur  Data</li>
 <ul>
   <li>record </li>
@@ -141,14 +143,42 @@
   <li>Pengunjung</li>
   <p>String nama, String tiket, int notiket, double harga</p>
   <li>pemesanan</li>
-  <p></p>
+  <p>String nama, String tiket, String film, String jam , double harga, int bayar, double kembalian</p>
+  <li>kursi</li>
+  <p>String kursi</p>
+  <li>kursi kanan</li>
+  <p>String [][] kursikanan ={<br>
+        {"F1","F2","F3","F4","F5"},<br>
+        {"G1","G2","G3","G4","G5"},<br>
+        {"H1","H2","H3","H4","H5"},<br>
+        {"I1","I2","I3","I4","I5"},<br>
+        {"J1","J2","J3","J4","J5"},<br>
+    };</p>
+  <li>kursi kiri</li>
+  <p>String [][] kursikiri ={<br>
+        {"A1","A2","A3","A4","A5"},<br>
+        {"B1","B2","B3","B4","B5"},<br>
+        {"C1","C2","C3","C4","C5"},<br>
+        {"D1","D2","D3","D4","D5"},<br>
+        {"E1","E2","E3","E4","E5"},<br>
+    };</p>
 </ul>
+<li>looping</li>
+<ul>
+  <li>boolean</li>
+<p>menggunakan boolean sebagai nilai true dan false untuk melakukan perulangan apa bila uang kurang, dan untuk menyimpan data di mana ketika kursi sudah di pesan kursinya akan bernilai true</p>
+  <li>while </li>
+  <p> di gunakan untuk mengulang kembali jika uang nya  kurang</p>
+</ul>
+
+</ol>
+
 
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/seyan88/STRUKTUR-DATA-/blob/main/APLIKASI_PEMESANAN_TIKET_BIOSKOP.java">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
