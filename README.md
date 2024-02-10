@@ -21,14 +21,18 @@
 
 ## Penjelasan Proyek
 <h3>SISTEM PEMESANAN TIKET BIOSKOP </h3>
-<p>    Sistem Pemesanan Tiket Bioskop yang kami buat bernama <b> BIOSKOP HEDON PLANET </b> ,<br> 
-  di sistem pemesanan tiket bioskop ini dapat memesan beberapa hal yaitu </p>
-        <ul>
+<p>    Sistem Pemesanan Tiket Bioskop yang kami buat bernama <b> BIOSKOP HEDON PLANET </b>, di sistem pemesanan tiket bioskop ini dapat memesan beberapa hal yaitu </p>
+        <ol>
           <li>Memilih FILM</li>
           <li>Memilih Jam Tayang </li>
           <li>Memilih KURSI</li>
-        </ul>
-
+        </ol>
+        <br>
+        <p> pada jadwal penayangan film kami membuat  waktu penayangannya dari setiap film di beri jarak satu jam untuk memudahkan pegawai menyiapkan studio, dan dalam satu film dapat di pilih sesuai keinginan costumer, di bawah merupakan purwarupa dari jadwal nya  </p>
+<br>
+<table border ="1">
+  
+</table>
 ## Komponen Proyek
 <p>Lorem ipsum sir dolor amet .</p>
 
