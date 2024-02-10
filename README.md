@@ -116,7 +116,22 @@
     <p> setelah transaksi maka akan mangambil semua data mulai dari input pemilihan film sampai transaksi akan di masukkan ke linkedlist sehingga nanti di riwayat akan menampilkan transaksi yang sudah terjadi, na,um di pemilihakn kursi tidak di masukkkan ke dalam linkedlist yang sama karena terjadi error ketika di masukkan ke dalam linkedlist</p>
   </ol>
 ## Komponen Proyek
-<p>Lorem ipsum sir dolor amet .</p>
+<p>Berikut beberapa komponen yang kami gunakkan</p>
+<ul>
+  <li>record </li>
+  <p>kami menggunakan struktur data record untuk menyimpan tipe data yang akan di gunakan</p>
+  <li>arraysList</li>
+  <p> kami menggunakan ArraysList untuk menyimpan data sesuai dengan record  </p>
+  <li> Arrays 2 dimensi</li>
+  <p>  Arrays 2 dimensi kami gunakan untuk untuk menyimpan data kursi yang natinya akan bisa di boking</p>
+<li> searching</li>
+<p> kami menggunakan metode searching untuk mencari variable yang sama di dalam arrays kursi sesuai dengan inputannya </p>
+<li>Priority queue comparator</li>
+<p> kami menggunakan priority queue comparator untuk megurutkan yang mana terlebih dahulu di layani </p>
+<li>Linkedlist</li>
+<p>Linkedlist ini kami ggunakan untuk menyimpan semua data dari inputan dan tipe data yang sudah di masukkan di record juga Arraylist</p>
+  
+</ul>
 
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
