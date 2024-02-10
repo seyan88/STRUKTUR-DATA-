@@ -190,7 +190,7 @@
                          </pre>
 <pre><b>SOFYAN MAULANA</b>
                         = Record -> Film, Pengunjung, Pemesanan, kursi  
-                        = Arraylist ->  film
+                        = Arraylist ->  film, jam
                         = Penjelasan running program
                         = Editing Video</pre>
 
