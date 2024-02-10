@@ -41,7 +41,7 @@
     <th>Jam 5</th>
   </tr>
   <tr>
-    <td><1/td>
+    <td>1</td>
     <td>Siksa Neraka</td>
     <td>10.00</td>
     <td>13.00</td>
@@ -50,7 +50,7 @@
     <td>22.00</td>
   </tr>
        <tr>
-    <td><2/td>
+    <td>2</td>
     <td>172 Days</td>
     <td>11.00</td>
     <td>14.00</td>
@@ -59,7 +59,7 @@
     <td>23.00</td>
   </tr>
        <tr>
-    <td><3/td>
+    <td>3</td>
     <td>Ancika</td>
     <td>12.00</td>
     <td>15.00</td>
