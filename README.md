@@ -117,6 +117,8 @@
   </ol>
 ## Komponen Proyek
 <p>Berikut beberapa komponen yang kami gunakkan</p>
+<ol type="1">
+  <li>Struktur  Data</li>
 <ul>
   <li>record </li>
   <p>kami menggunakan struktur data record untuk menyimpan tipe data yang akan di gunakan</p>
@@ -131,6 +133,15 @@
 <li>Linkedlist</li>
 <p>Linkedlist ini kami ggunakan untuk menyimpan semua data dari inputan dan tipe data yang sudah di masukkan di record juga Arraylist</p>
   
+</ul>
+<li>Tipe Data</li>
+<ul>
+  <li>Film</li>
+  <p>String namafilm, String jam1, String jam2, String jam3,String jam4, String jam5, int harga</p>
+  <li>Pengunjung</li>
+  <p>String nama, String tiket, int notiket, double harga</p>
+  <li>pemesanan</li>
+  <p></p>
 </ul>
 
 ## Pembagian Tim
