@@ -8,7 +8,7 @@
 ## Kelompok
 
 <ul>
-  <li>Kelompok: KELOMPOK 2</li>
+  <li>Kelompok: KELOMPOK 3</li>
   <li>Proyek: SISTEM PEMESANAN TIKET BIOSKOP</li>
   <li>Anggota:</li>
   <ul>
