@@ -331,7 +331,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                                     System.out.println("Jam Tayang          : "+ riwayat1.jam());
                                 }
                                     for ( kursi kursik1 : pkursi){
-                                    System.out.println("Jam Tayang          : "+ kursik1.kursi()+" ");
+                                    System.out.println("Kursi               : "+ kursik1.kursi()+" ");
                                     }
                                     for (pemesanan riwayat2 : riwayat){
                                     System.out.println("Total Harga         : "+ riwayat2.harga());
@@ -440,7 +440,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                                     System.out.println("Jam Tayang          : "+ riwayat1.jam()+" ");
                                     }
                                 for ( kursi kursik : pkursi){
-                                    System.out.println("Jam Tayang          : "+ kursik.kursi()+" ");
+                                    System.out.println("Kursi               : "+ kursik1.kursi()+" ");
                                     }
                                     for (pemesanan riwayat1 : riwayat){
                                     
@@ -571,7 +571,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                                     System.out.println("Jam Tayang          : "+ riwayat1.jam());
                                 }
                                     for ( kursi kursik1 : pkursi){
-                                    System.out.println("Jam Tayang          : "+ kursik1.kursi()+" ");
+                                    System.out.println("Kursi               : "+ kursik1.kursi()+" ");
                                     }
                                     for (pemesanan riwayat2 : riwayat){
                                     System.out.println("Total Harga         : "+ riwayat2.harga());
@@ -674,7 +674,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                                     System.out.println("Jam Tayang          : "+ riwayat1.jam()+" ");
                                     }
                                 for ( kursi kursik : pkursi){
-                                    System.out.println("Jam Tayang          : "+ kursik.kursi()+" ");
+                                    System.out.println("Kursi               : "+ kursik1.kursi()+" ");
                                     }
                                     for (pemesanan riwayat1 : riwayat){
                                     
