@@ -180,7 +180,8 @@
                         = Struktur Program
                         = pemilihan film
                         = pemilihan jam
-                        = Penjelasan awal program</pre>
+                        = Penjelasan awal program
+                        = = Editing Video</pre>
 <pre><b>SULASTIAN SETIADI</b> 
                         = Arrays 2 dimensi -> kursikanan, kursikiri
                         = searching -> kursi
@@ -192,8 +193,8 @@
 <pre><b>SOFYAN MAULANA</b>
                         = Record -> Film, Pengunjung, Pemesanan, kursi  
                         = Arraylist ->  film, jam
-                        = Penjelasan running program
-                        = Editing Video</pre>
+                        = Penjelasan running program</pre>
+                        
 
 
 ## Demo Proyek
