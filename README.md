@@ -200,5 +200,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/seyan88/STRUKTUR-DATA-/blob/main/APLIKASI_PEMESANAN_TIKET_BIOSKOP.java">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/pYQXXN8j_yM?si=wgpCBsocyN50fmXq ">Youtube</a></li>
 </ul>
