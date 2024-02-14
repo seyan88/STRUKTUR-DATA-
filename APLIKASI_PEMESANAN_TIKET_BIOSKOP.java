@@ -91,18 +91,7 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
         }
     }
 
-     /*Spesifikasi:
-
-            😒Peserta ( memakai arrayrecord untuk menentukan batasana penonton )
-
-            😒Film ✅ ( memakai record untuk mendeklarasikan film nya )
-
-            😒Kursi dengan memilih kursi yang ada di bioskop 
-
-            😒Transaksi ( linked list record, priority queue,  dan queue )
-
-            😒Riwayat Transaksi ( hanya tampilan dari gabungan semua spesifikasimya)
-            */
+     
     //Record deklarasi
     public record Film (String namafilm, String jam1, String jam2, String jam3,String jam4, String jam5, int harga){} //✅
     public record pengunjung(String nama, String tiket, int notiket, double harga){}
@@ -161,12 +150,12 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                         // PENGECEKAN UNTUK KURSI ( APABILA KURSINYA TERISI MAKA NILAINYA TRUE, SEDANGKAN JIKA TIDAK TERISI NILAINYA FALSE )
                         boolean[][] kursiterisi = new boolean[kursikiri.length][kursikiri[0].length];
                         
-                        String[][] dataBooking1 = new String[kursikiri.length][kursikiri[0].length];
+                        
                         
                         // PENGECEKAN UNTUK KURSI ( APABILA KURSINYA TERISI MAKA NILAINYA TRUE, SEDANGKAN JIKA TIDAK TERISI NILAINYA FALSE )
                         boolean[][] kursiterisi2 = new boolean[kursikanan.length][kursikanan[0].length];
                         
-                        String[][] dataBooking2 = new String[kursikanan.length][kursikanan[0].length];
+
                         
                         Scanner input = new Scanner(System.in);
                         
@@ -310,8 +299,8 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                             }else {
                                 double total = filmList[jml - 1].harga*jml/pembeli.harga();
                                 double jumlah =  bayar - total;
-                                System.out.println("PEMBAYARANN : "+total+"-"+bayar );
-                                System.out.println("CASH        :"+jumlah);
+                                System.out.println("PEMBAYARANN      : "+total+"-"+bayar );
+                                System.out.println("KEMBALIAN        :"+jumlah);
                                 
                                 
                                 
@@ -421,8 +410,8 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                             }else {
                                 double total = filmList[jml - 1].harga*jml/pembeli.harga();
                                 double jumlah =  bayar - total;
-                                System.out.println("PEMBAYARANN : "+total+"-"+bayar );
-                                System.out.println("CASH        :"+jumlah);
+                                System.out.println("PEMBAYARANN      : "+total+"-"+bayar );
+                                System.out.println("KEMBALIAN        : "+jumlah);
                                 System.out.println("==============================");
                                 System.out.println("         SELAMAT MENONTON");
                                 System.out.println("==============================");
@@ -550,8 +539,8 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                             }else {
                                 double total = filmList[jml2 - 1].harga*jml2/pembeli.harga();
                                 double jumlah =  bayar - total;
-                                System.out.println("PEMBAYARANN : "+total+"-"+bayar );
-                                System.out.println("CASH        :"+jumlah);
+                                System.out.println("PEMBAYARANN      : "+total+"-"+bayar );
+                                System.out.println("KEMBALIAN        : "+jumlah);
                                 
                                 
                                 
@@ -655,8 +644,8 @@ public class APLIKASI_PEMESANAN_TIKET_BIOSKOP {
                             }else {
                                 double total = filmList[jml2 - 1].harga*jml2/pembeli.harga();
                                 double jumlah =  bayar - total;
-                                System.out.println("PEMBAYARANN : "+total+"-"+bayar );
-                                System.out.println("CASH        :"+jumlah);
+                                System.out.println("PEMBAYARANN      : "+total+"-"+bayar );
+                                System.out.println("KEMBALIAN        :"+jumlah);
                                 System.out.println("==============================");
                                 System.out.println("         SELAMAT MENONTON");
                                 System.out.println("==============================");
