@@ -181,7 +181,7 @@
                         = pemilihan film
                         = pemilihan jam
                         = Penjelasan awal program
-                        = = Editing Video</pre>
+                        = Editing Video</pre>
 <pre><b>SULASTIAN SETIADI</b> 
                         = Arrays 2 dimensi -> kursikanan, kursikiri
                         = searching -> kursi
